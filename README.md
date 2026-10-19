@@ -1,2 +1,16 @@
-# test_repository
-My repository for learning and understanding tech of GIT.
+# Заголовок проекта
+
+## Подзаголовок
+
+Обычный текст. **Жирный**, *курсив*, `код в строке`.
+
+- пункт списка
+- ещё пункт
+
+1. нумерованный пункт
+
+```bash
+docker compose up
+```
+
+[Ссылка](https://github.com)
