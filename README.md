@@ -9,7 +9,7 @@
 
 1. нумерованный пункт
 
-```bash
+```python
 docker compose up
 ```
 
